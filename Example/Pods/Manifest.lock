@@ -1,0 +1,14 @@
+PODS:
+  - ALib (0.1.0)
+
+DEPENDENCIES:
+  - ALib (from `../`)
+
+EXTERNAL SOURCES:
+  ALib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ALib: 4b46322ff16604f4e2dd10522e800c64eabda97c
+
+COCOAPODS: 0.39.0
